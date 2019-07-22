@@ -1,0 +1,1 @@
+from .gradient_color import color, print_
