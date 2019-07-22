@@ -70,4 +70,3 @@ print_(' '.join(color(tokens, weights, start_hex="#34BF49", finish_hex="#BE0027"
 ```
 
 ![alt text](./imgs/demo3.png "color demo")
-
